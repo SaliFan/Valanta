@@ -1,0 +1,1221 @@
+
+
+.headerfirst{
+    
+    height: 100px;
+    width: 100%;
+    border-bottom: 1px solid black;
+    display: flex;
+}
+
+.LogoValanta{
+    width: 240px;
+    height: 90px;
+    padding-top: 17px;
+    padding-left: 100px;
+}
+
+.borderhr{
+    position: absolute;
+    top: 30px;
+    left: 300px;
+    width: 0px;
+    height: 50px;
+    border: 1px solid gray;
+}
+
+.language{
+    position: absolute;
+    top: 15px;
+    left: 350px;
+
+}
+
+.borderhrsecond{
+    position: absolute;
+    top: 30px;
+    left: 425px;
+    width: 0px;
+    height: 50px;
+    border: 1px solid gray;
+}
+
+.money{
+    position: absolute;
+    top: 15px;
+    left: 470px;
+}
+
+.borderdhrthird{
+    position: absolute;
+    top: 30px;
+    left: 575px;
+    width: 0px;
+    height: 50px;
+    border: 1px solid gray;
+}
+
+.icons{
+    font-size: 30px;
+    position: absolute;
+    left: 600px;
+    top: 30px;
+    
+
+}
+
+.icon{
+   
+    text-decoration: none;
+    color: black;
+}
+
+.icon-phone{
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    bottom: 985px;
+    left: 20px;
+
+}
+
+.borderhrfourth{
+    position: absolute;
+    top: 30px;
+    left: 715px;
+    width: 0px;
+    height: 50px;
+    border: 1px solid gray;
+}
+
+.numbers{
+    position: absolute;
+    top: 15px;
+    left: 750px;
+}
+
+.phone{
+    font-size: 60px;
+    position: absolute;
+    top: 25px;
+    left: 870px;
+}
+
+.borderhrfifth{
+    position: absolute;
+    top: 30px;
+    left: 950px;
+    width: 0px;
+    height: 50px;
+    border: 1px solid gray;
+
+}
+
+.input{
+    text-align: center;
+    position: absolute;
+    height: 50px;
+    width: 186px;
+    left: 1000px;
+    top: 27px;
+}
+
+.redsquare{
+    position: absolute;
+    left: 1193px;
+    top: 27px;
+    width: 55px;
+    height: 56px;
+    background-color: red;
+    text-align: center;
+    font-size: 37px;
+    color: white;
+
+}
+
+.inputsecond{
+    text-align: center;
+    position: absolute;
+    height: 50px;
+    width: 186px;
+    left: 1350px;
+    top: 27px;
+}
+
+.greensquare{
+    
+    position: absolute;
+    left: 1543px;
+    top: 27px;
+    width: 55px;
+    height: 56px;
+    background-color: #4AD295;
+    text-align: center;
+    font-size: 37px;
+    color: white;
+
+}
+
+.RU{
+    color: white;
+    border: 1px solid #4AD295;
+    background-color: #4AD295;
+}
+
+.headersecond:hover{
+    text-decoration: none;
+
+
+}
+
+.headersecond{
+    
+    width: 100%;
+    height: 50px;
+    border-bottom: 1px solid black;
+    
+}
+
+.search{
+    position: absolute;
+    top: 115px;
+    left: 200px;
+}
+
+.links{
+    
+    position: absolute;
+    top: 115px;
+    left: 350px;
+
+
+}
+
+.links1{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.links2{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.links3{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.links4{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.links5{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.links6{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.links7{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.links8{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.links9{
+    text-decoration: none;
+    color: black;
+    margin-inline-end: 90px;
+}
+
+.underslider{
+    
+    height: 350px;
+    width: 100%;
+    background-color: rgb(224, 224, 224);
+
+
+}
+
+.underslider-text{
+    width: 650px;
+    height: 10px;
+    position: absolute;
+    left: 280px;
+    top: 1000px;
+}
+
+.underslider-p{
+    position: absolute;
+    left: 280px;
+    top: 1100px;
+    font-size: 20px;
+}
+
+.underslider-button-first{
+    width: 270px;
+    height: 55px;
+    position: absolute;
+    top: 1170px;
+    left: 280px;
+}
+
+.underslider-button-second{
+    width: 250px;
+    height: 55px;
+    position: absolute;
+    top: 1170px;
+    left: 560px;
+}
+
+.underslider-icon-text-first{
+    display: flex;
+    position: absolute;
+    top: 1000px;
+    left: 1100px;
+}
+
+.underslider-icon-first{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    border: 1px dashed black;
+    border-radius:75% ;
+}
+
+.underslider-icon-text-second{
+    display: flex;
+    position: absolute;
+    top: 1080px;
+    left: 1100px;
+}
+
+.underslider-icon-second{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    border: 1px dashed black;
+    border-radius:75% ;
+}
+
+.underslider-icon-text-third{
+    display: flex;
+    position: absolute;
+    top: 1160px;
+    left: 1100px;
+}
+
+.underslider-icon-third{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    border: 1px dashed black;
+    border-radius:75% ;
+}
+
+.fa-hand-holding-heart{
+    margin-left: 8px;
+}
+
+.fa-hand-holding-usd{
+    margin-left: 8px;
+}
+
+.fa-star{
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+.best-hotel{
+    padding: 20px;
+    padding-left: 300px;
+
+
+}
+
+.portnovi{
+    border: 1px solid black;
+    background-color: black;
+    opacity: 0.7;
+}
+
+.best-hotel-hr{
+    width: 620px;
+    position: absolute;
+    top: 1370px;
+    left: 600px;
+
+
+}
+
+.all-hotels{
+    position: absolute;
+    top: 1370px;
+    left: 1250px;
+    width: 210px;
+    height: 40px;
+}
+
+.tours{
+    padding: 20px;
+    padding-left: 300px;
+}
+
+.tours-hr{
+    position: absolute;
+    top: 1955px;
+    left: 650px;
+    width: 570px;
+}
+
+.all-tours{
+    position: absolute;
+    top: 1955px;
+    left: 1250px;
+    width: 210px;
+    height: 40px;
+
+}
+
+.uk-card-default{
+    height: 800px;
+}
+
+.all-tours-div{
+    background-color: whitesmoke;
+    height: 650px;
+    width: 1000px;
+    padding-left: 50px;
+}
+
+.all-tours-first{
+    background-color: rgb(197, 197, 197);
+    height: 650px;
+    width: 500px;
+}
+
+
+
+.all-tours-first-photo{
+    height: 300px;
+    width: 500px;
+}
+
+.price-first{
+    font-size: 40px;
+    position: absolute;
+    left: 70px;
+    color: red;
+}
+
+.price-first{
+    font-size: 40px;
+    position: absolute;
+    left: 220px;
+    color: red;
+}
+
+.price{
+    font-size: 40px;
+    position: absolute;
+    left: 180px;
+    color: red;
+}
+
+
+
+.all-tours-first-date{
+    position: absolute;
+    width: 100px;
+    top: 2570px;
+    left: 250px;
+
+}
+
+
+
+.all-tours-second{
+    background-color: rgb(197, 197, 197);
+    height: 650px;
+    width: 500px;
+    position: absolute;
+    left: 730px;
+    top: 2036px;
+
+}
+
+.all-tours-second-date{
+    position: absolute;
+    width: 100px;
+    top: 534px;
+    left: 210px;
+
+
+}
+
+.all-tours-thirth{
+    background-color: rgb(197, 197, 197);
+    height: 650px;
+    width: 500px;
+    position: absolute;
+    left: 1360px;
+    top: 2036px;
+}
+
+.all-tours-thirth-date{
+    position: absolute;
+    width: 100px;
+    top: 534px;
+    left: 210px;
+
+
+}
+
+
+.dropdown-nav{
+    color: black;
+    padding-top: 30px;
+    margin-left: 700px;
+}
+
+.from{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 2740px;
+    left: 700px;
+
+}
+
+.where{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 2740px;
+    left: 760px;
+
+}
+
+.date{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 2740px;
+    left: 920px;
+}
+
+.toruists{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 2740px;
+    left: 990px;
+
+}
+
+.nights{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 2740px;
+    left: 1100px;
+    
+}
+
+.dropdown{
+    height: 300px;
+    
+}
+
+p{
+
+    text-align: center;
+
+}
+
+nav{
+    height: 120px;
+    margin: 50px 0;
+    background-color: rgb(44, 44, 44);
+
+}
+
+nav ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    position: relative;
+
+}
+
+nav ul li{
+    border: 1px solid black;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+
+}
+
+nav a{
+    display: block;
+    padding: 0 auto;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    line-height: 60px;
+    text-decoration: none;
+
+
+}
+
+nav a:hover{
+    background-color: rgb(143, 143, 143);
+    color: white;
+    text-decoration: none;
+}
+
+nav ul ul{
+    padding-top: 33px;
+    display: none;
+    position: absolute;
+    top: 60px;
+}
+
+nav ul li:hover > ul{
+    display: inherit;
+}
+
+nav ul ul li {
+    width: 170px;
+    float: none;
+    display: list-item;
+    position: relative;
+}
+
+nav ul ul ul li{
+    position: relative;
+    top: -60px;
+    left: 170px;
+
+
+}
+
+.news{
+    margin-left: 300px;
+}
+
+.news-hr{
+    position: absolute;
+    top: 3086px;
+    left: 650px;
+    width: 650px;
+}
+
+.all-news{
+    position: absolute;
+    top: 3085px;
+    left: 1340px;
+    width: 210px;
+    height: 40px;
+
+
+}
+
+.card-news{
+    display: flex;
+    margin-left: 300px;
+
+
+}
+
+.news-first{
+    width: 200px;
+    height: 300px;
+    margin-right: 150px;
+}
+
+.news-photo{
+    width: 200px;
+    height: 150px;
+}
+
+.news-link{
+    color: black;
+    text-decoration: underline;
+}
+
+.news-link:hover{
+    color: red;
+}
+
+.news-second{
+    width: 200px;
+    height: 300px;
+    margin-right: 150px;
+}
+
+.news-third{
+    width: 200px;
+    height: 300px;
+    margin-right: 150px;
+}
+
+.news-fourth{
+    width: 200px;
+    height: 300px;
+    margin-right: 150px;
+}
+
+.blog{
+    margin-top: 300px;
+    margin-left: 300px;
+}
+
+.blog-hr{
+    position: absolute;
+    top: 3755px;
+    left: 400px;
+    width: 900px;
+}
+
+.all-blog{
+    position: absolute;
+    top: 3755px;
+    left: 1340px;
+    width: 210px;
+    height: 40px;
+
+
+}
+
+.card-blog{
+    display: flex;
+    margin-left: 300px;
+
+
+}
+
+.blog-first{
+    width: 200px;
+    height: 300px;
+    margin-right: 150px;
+}
+
+.blog-photo{
+    width: 200px;
+    height: 150px;
+}
+
+.blog-link{
+    color: black;
+    text-decoration: underline;
+}
+
+.blog-link:hover{
+    color: red;
+}
+
+.blog-second{
+    width: 200px;
+    height: 300px;
+    margin-right: 150px;
+}
+
+.blog-third{
+    width: 200px;
+    height: 300px;
+    margin-right: 150px;
+}
+
+.blog-fourth{
+    width: 200px;
+    height: 300px;
+    margin-right: 150px;
+}
+
+.mail{
+    margin-top: 90px;
+    width: 100%;
+    height: 230px;
+    background-color: rgb(180, 55, 55);
+}
+
+.mail-top{
+    display: flex;
+    margin-left: 300px;
+    
+
+}
+
+.mail-top > h2{
+    color: white;
+    margin-top: 40px;
+}
+
+.mail-top > h4{
+    margin-left: 90px;
+    color: white;
+    width: 470px;
+}
+
+
+.mail-bottom > input{
+    margin-top: 15px;
+    margin-left: 300px;
+    height: 45px;
+    width: 400px;
+}
+
+.mail-bottom > button{
+    width: 210px;
+    height: 40px;
+    margin-left: 450px;
+
+}
+
+.why-we-h{
+    margin-left: 300px;
+
+}
+
+.why-we{
+    display: flex;
+    margin-top: 90px;
+    margin-left: 300px;
+
+}
+
+.card-why-we-first-red{
+    width: 450px;
+    height: 170px;
+    border: 1px solid black;
+    margin-right: 120px;
+
+}
+
+.card-why-we-first{
+    width: 450px;
+    height: 170px;
+    border: 1px solid black;
+    margin-right: 120px;
+
+}
+
+.card-why-we-first > p{
+    width: 332px;
+    margin-left: 25px;
+}
+
+.card-why-we-first-red > span{
+    margin-left: 200px;
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+
+}
+
+.card-why-we-first > span{
+    margin-left: 200px;
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+
+
+}
+
+.card-why-we-second{
+    width: 450px;
+    height: 170px;
+    border: 1px solid black
+
+}
+
+.card-why-we-second > p{
+    width: 332px;
+    margin-left: 25px;
+}
+
+.card-why-we-second > span{
+    margin-left: 200px;
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+}
+
+.background-offer{
+    height: 200px;
+    margin-top: 180px;
+    background-image: url(hotel2.jpg);
+
+
+}
+
+.background-offer-text{
+    margin-left: 300px;
+}
+
+.background-offer-text > h1{
+    color: white;
+}
+
+.background-offer-text > h5{
+    color: white;
+}
+
+.background-offer-text > button{
+    width: 200px;
+    height: 50px;
+    font-size: 21px;
+
+
+}
+
+.countries-card{
+    display: flex;
+    background-color: rgb(226, 226, 226);
+    height: 150px;
+    width: 1115px;
+}
+
+.countries{
+    
+    margin-top: 90px;
+    margin-left: 300px;
+}
+
+.countries > h1{
+    width: 900px;
+
+
+}
+
+.croatia{
+    margin-right: 50px;
+    margin-top: 15px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/250px-Flag_of_Croatia.svg.png);
+    height: 125px;
+    width: 250px;
+    background-color: rgb(243, 243, 243);
+}
+
+.croatia > h1{
+    width: 180px;
+    margin-left: 36px;
+    background-color:rgb(0, 0, 0);
+    color: white;
+    opacity: 0.7;
+}
+
+.croatia > button{
+    height: 40px;
+    width: 250px;
+    opacity: 0.9;
+}
+
+.montenegro{
+    margin-right: 50px;
+    margin-top: 15px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Propose_flag_of_Montenegro.svg/250px-Propose_flag_of_Montenegro.svg.png);
+    height: 125px;
+    width: 250px;
+    background-color: rgb(243, 243, 243);
+}
+
+.montenegro > h1{
+    width: 235px;
+    margin-left: 8px;
+    background-color:rgb(0, 0, 0);
+    color: white;
+    opacity: 0.7;
+}
+
+.montenegro > button{
+    height: 40px;
+    width: 250px;
+
+    opacity: 0.9;
+}
+
+.slovenia{
+    margin-right: 50px;
+    margin-top: 15px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/250px-Flag_of_Slovenia.svg.png);
+    height: 125px;
+    width: 250px;
+    background-color: rgb(243, 243, 243);
+}
+
+.slovenia > h1{
+    width: 185px;
+    margin-left: 25px;
+    background-color:rgb(0, 0, 0);
+    color: white;
+    opacity: 0.7;
+}
+
+.slovenia > button{
+    height: 40px;
+    width: 230px;
+    margin-left: 2px;
+    opacity: 0.9;
+}
+
+.italy{
+    margin-right: 50px;
+    margin-top: 15px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/250px-Flag_of_Italy.svg.png);
+    height: 125px;
+    width: 250px;
+    background-color: rgb(243, 243, 243);
+}
+
+.italy > h1{
+    width: 140px;
+    margin-left: 40px;
+    background-color:rgb(0, 0, 0);
+    color: white;
+    opacity: 0.7;
+}
+
+.italy > button{
+    height: 40px;
+    width: 230px;
+    margin-left: 2px;
+    opacity: 0.9;
+}
+
+.countries-bottom{
+    width: 1200px;
+    display: flex;
+    margin-top: 70px;
+    margin-left: 300px;
+
+
+}
+
+.countries-bottom > h3{
+    width: 450px;
+    border: 1px solid black;
+
+
+}
+
+.countries-h{
+    width: 450px;
+}
+
+.countries-h > a{
+    text-decoration: underline;
+    color: red;
+}
+
+.exclusive{
+    margin-top: 180px;
+    margin-left: 300px;
+
+}
+
+.exclusive > h1{
+    width: 700px;
+    border-bottom: 1px solid black;
+    height: 200px;
+}
+
+.exclusive-two-p-second{
+    position: absolute;
+    margin-left: 350px;
+    top: 6967px;
+}
+
+.exclusive-two-p > p{
+    width: 300px;
+
+}
+
+.exclusive > h4{
+    width: 340px;
+}
+
+.exclusive-lot-h{
+    width: 300px;
+
+}
+
+.exclusive-lot-h > h6{
+    border-bottom: 1px solid black;
+}
+
+.exclusive-lot-h-second{
+    margin-left: 400px;
+    position: absolute;
+    top: 7221px;
+}
+
+.exclusive-lot-h-second > h6{
+    border-bottom: 1px solid black;
+
+
+}
+
+.consultation{
+    width: 100%;
+    height: 275px;
+    background-image: url(hotel2.jpg)
+
+}
+
+.consultation > h4{
+    color: white;
+    margin-left: 300px;
+    width: 600px;
+}
+
+.consultation > h1{
+    color: white;
+    margin-left: 300px;
+    width: 600px;
+
+
+}
+
+.input-name{
+    margin-left: 300px;
+    height: 45px;
+    width: 250px;
+}
+
+.input-email{
+    height: 45px;
+    width: 250px;
+}
+
+.input-phone{
+    height: 45px;
+    width: 250px;
+}
+
+.consultation > button{
+    height: 52px;
+    width: 250px;
+    margin-left: 60px;
+
+}
+
+.number{
+    margin-left: 600px;
+}
+
+.information{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 620px;
+    padding-left: 10px;
+    width: 900px;
+
+}
+
+.first-information{
+    width: 235px;
+}
+
+.first-information > h1{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding-left: 90px;
+    border-bottom: 1px solid black;
+
+}
+
+.partners-text{
+    width: 1000px;
+    margin-left: 480px;
+}
+
+.partners-img{
+    margin-left: 580px;
+}
+
+.exclusive-text-h{
+    margin-left: 1000px;
+    width: 560px;
+}
+
+.exclusive-text-p{
+    margin-left: 1000px;
+    width: 560px;
+
+}
+
+.why-us-second{
+margin-left: 300px;
+height: 550px;
+width: 800px;
+
+}
+
+.cards-why-us{
+    display: flex;
+    flex-wrap: wrap;
+    height: 50px;
+    width: 900px;
+
+}
+
+.card-first{
+    background-color: rgb(228, 228, 228);
+    height: 200px;
+    width: 298px;
+    border: 1px solid black;
+}
+
+.card-first > h4{
+margin-left: 30px;
+
+
+}
+
+.card-first > p{
+    height: 90px;
+    font-size: 20px;
+}
+
+.card-first > h6{
+    margin-left: 260px;
+
+}
+
+.what-is{
+    margin-left: 400px;
+    width: 1200px;
+
+}
+
+.what-is-it{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 500px;
+    width: 1000px;
+    height: 305px;
+}
+
+.what-is-it-first{
+    width: 450px;
+    height: 100px;
+
+}
+
+footer {
+    height: 28px;
+    width: 100%;
+}
